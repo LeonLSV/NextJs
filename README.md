@@ -1,7 +1,2 @@
-# Curso de Next.JS en Platzi
-
-Este repositorio contiene todo el contenido del curso a medida que construimos una app para ver podcasts con la API de Audioboom.
-<<<<<<< HEAD
-
-# Deploy
-https://next-js-pi-opal.vercel.app/
+# Aplicación Web para escuchar PODCASTS
+Consumo de API de podcasts. 
